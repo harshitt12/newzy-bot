@@ -18,7 +18,7 @@ NewsyBot is a user-friendly news research tool designed for effortless informati
 1.Clone this repository to your local machine using:
 
 ```bash
-  https://github.com/priyxnshuuu/news-tool
+https://github.com/harshitt12/newzy-bot
 ```
 2.Navigate to the project directory:
 
